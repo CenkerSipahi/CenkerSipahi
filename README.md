@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CenkerSipahi
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 📫 How to reach me "sipahicenker2@gmail.com"
 
 <!---
