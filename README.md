@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CenkerSipahi
-- 🌱 I’m currently studying Frontend Dev
+- 🌱 ****************************************
 - 📫 How to reach me "sipahicenker2@gmail.com"
 
 <!---
