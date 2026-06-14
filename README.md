@@ -25,7 +25,7 @@
 ### 🔍 Müşteri Kaybı (Churn) Tahmin Modeli
 Telekomünikasyon sektörü verisi üzerinde TensorFlow/Keras ile geliştirilen derin öğrenme tabanlı tahmin modeli.  
 `Python` `TensorFlow` `Pandas` `Scikit-Learn` `Matplotlib`  
-→ [Projeyi İncele]([https://github.com/gizembsky/Churn_Analizi_Projesi](https://github.com/CenkerSipahi/Churn-Analizi-Projesi))
+→ [Projeyi İncele](https://github.com/CenkerSipahi/Churn-Analizi-Projesi)
 
 ---
 
