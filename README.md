@@ -31,5 +31,5 @@ Telekomünikasyon sektörü verisi üzerinde TensorFlow/Keras ile geliştirilen 
 
 ## 📫 İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cenker-sipahi-4b9435249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cenkersipahi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sipahicenker2@gmail.com)
