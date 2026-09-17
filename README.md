@@ -22,10 +22,10 @@
 
 ## 📌 Öne Çıkan Proje
 
-### 🔍 Müşteri Kaybı (Churn) Tahmin Modeli
-Telekomünikasyon sektörü verisi üzerinde TensorFlow/Keras ile geliştirilen derin öğrenme tabanlı tahmin modeli.  
-`Python` `TensorFlow` `Pandas` `Scikit-Learn` `Matplotlib`  
-→ [Projeyi İncele](https://github.com/CenkerSipahi/Churn-Analizi-Projesi)
+### 🔍 Diş Röntgeni Analizi Modeli
+Panoramik diş röntgenleri üzerinde nesne tespiti yapan YOLOv8 tabanlı yapay zeka projesi.
+`Python` `YOLOV8` `Pandas` `OpenCV` `Matplotlib`  
+→ [Projeyi İncele]([https://github.com/CenkerSipahi/dental-radiography-ai-detection])
 
 ---
 
