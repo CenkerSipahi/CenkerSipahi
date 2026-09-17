@@ -25,7 +25,7 @@
 ### 🔍 Diş Röntgeni Analizi Modeli
 Panoramik diş röntgenleri üzerinde nesne tespiti yapan YOLOv8 tabanlı yapay zeka projesi.
 `Python` `YOLOV8` `Pandas` `OpenCV` `Matplotlib`  
-→ [Projeyi İncele](https://github.com/CenkerSipahi/dental-radiography-ai-detection])
+→ [Projeyi İncele](https://github.com/CenkerSipahi/dental-radiography-ai-detection.git)
 
 ---
 
